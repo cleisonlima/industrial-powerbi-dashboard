@@ -9,7 +9,7 @@ Este repositório contém o desenvolvimento de um **Dashboard de Business Intell
 
 ## 📊 Visualização do Dashboard
 
-![Painel de Produção Industrial](https://github.com/seu-usuario/seu-repositorio/raw/main/caminho-da-sua-imagem.jpg)
+![Painel de Produção Industrial](https://github.com/cleisonlima/industrial-powerbi-dashboard/blob/main/projeto_power_bi_2/dashboard.png?raw=true)
 *(Substitua o link acima pelo link da imagem do seu painel após subir no GitHub!)*
 
 ---
